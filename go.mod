@@ -1,4 +1,4 @@
-module github.com/JosteinEng/IS-105/myquote
+module github.com/JosteinEng/myquote
 
 go 1.17
 
